@@ -1,0 +1,4 @@
+create  a frontier - priority queue, orioritize based on :
+Seed URLs should always be crawled first.
+Prefer pages with higher in-link counts.
+If multiple pages have maximal in-link counts, choose the option which has been in the queue the longest.
